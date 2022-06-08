@@ -2,12 +2,17 @@
 
 Download all videos of your favorite pornhub models, playlists and channels and update all your stuff with a simple command.
 
-**DISCLAIMER**
+**ATTENTION**
 
-I haven't used this project in ages. Stuff might work, it might not work. \
-Fixes and PR's are always welcome, but it might take a while for them to be reviewed and merged.
-This project has a very low priority in my current schedule ;D.
+This project has been archived.
+I haven't used this project in ages and I just don't find the motivation to properly update, maintain or fix it. \
+Feel free to start a new well-maintained fork for this project, I don't mind!
 
+Still, I must say that this was an interesting side-project and I had quite a lot of fun polishing the scraping logic :D.
+
+Shoutout to the people at Pornhub. I would really like to take a look at their IT infrastructure and streaming setup :wink:.
+
+**ATTENTION**
 
 **Further Disclaimer**
 
